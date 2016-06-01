@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-teleport",
+  "version": "0.0.1-alpha",
+  "description": "A Module that allows for teleportation of any React Component to a predefined locaiton in the react element tree.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fobbyal/react-redux-teleport.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "portal",
+    "teleport"
+  ],
+  "author": "fobbyal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fobbyal/react-redux-teleport/issues"
+  },
+  "homepage": "https://github.com/fobbyal/react-redux-teleport#readme"
+}
